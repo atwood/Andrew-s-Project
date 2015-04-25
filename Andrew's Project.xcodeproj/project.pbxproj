@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A13491AE16F6918300F9CD83 /* A.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491A116F6918300F9CD83 /* A.m4a */; };
+		A13491AF16F6918300F9CD83 /* A#.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491A216F6918300F9CD83 /* A#.m4a */; };
+		A13491B016F6918300F9CD83 /* B.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491A316F6918300F9CD83 /* B.m4a */; };
+		A13491B116F6918300F9CD83 /* C#.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491A416F6918300F9CD83 /* C#.m4a */; };
+		A13491B216F6918300F9CD83 /* D.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491A516F6918300F9CD83 /* D.m4a */; };
+		A13491B316F6918300F9CD83 /* D#.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491A616F6918300F9CD83 /* D#.m4a */; };
+		A13491B416F6918300F9CD83 /* E.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491A716F6918300F9CD83 /* E.m4a */; };
+		A13491B516F6918300F9CD83 /* F.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491A816F6918300F9CD83 /* F.m4a */; };
+		A13491B616F6918300F9CD83 /* F#.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491A916F6918300F9CD83 /* F#.m4a */; };
+		A13491B716F6918300F9CD83 /* G.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491AA16F6918300F9CD83 /* G.m4a */; };
+		A13491B816F6918300F9CD83 /* G#.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491AB16F6918300F9CD83 /* G#.m4a */; };
+		A13491B916F6918300F9CD83 /* HighC.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491AC16F6918300F9CD83 /* HighC.m4a */; };
+		A13491BA16F6918300F9CD83 /* LowC.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A13491AD16F6918300F9CD83 /* LowC.m4a */; };
 		A14D966416F67AB800DCD81F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A14D966316F67AB800DCD81F /* UIKit.framework */; };
 		A14D966616F67AB800DCD81F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A14D966516F67AB800DCD81F /* Foundation.framework */; };
 		A14D966816F67AB800DCD81F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A14D966716F67AB800DCD81F /* CoreGraphics.framework */; };
@@ -18,9 +31,23 @@
 		A14D967A16F67AB800DCD81F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A14D967916F67AB800DCD81F /* Default-568h@2x.png */; };
 		A14D967D16F67AB800DCD81F /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A14D967B16F67AB800DCD81F /* MainStoryboard.storyboard */; };
 		A14D968016F67AB800DCD81F /* AndrewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A14D967F16F67AB800DCD81F /* AndrewViewController.m */; };
+		A19F35FD16F68B83000FD091 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A19F35FC16F68B83000FD091 /* AudioToolbox.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A13491A116F6918300F9CD83 /* A.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = A.m4a; sourceTree = "<group>"; };
+		A13491A216F6918300F9CD83 /* A#.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "A#.m4a"; sourceTree = "<group>"; };
+		A13491A316F6918300F9CD83 /* B.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = B.m4a; sourceTree = "<group>"; };
+		A13491A416F6918300F9CD83 /* C#.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "C#.m4a"; sourceTree = "<group>"; };
+		A13491A516F6918300F9CD83 /* D.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = D.m4a; sourceTree = "<group>"; };
+		A13491A616F6918300F9CD83 /* D#.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "D#.m4a"; sourceTree = "<group>"; };
+		A13491A716F6918300F9CD83 /* E.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = E.m4a; sourceTree = "<group>"; };
+		A13491A816F6918300F9CD83 /* F.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = F.m4a; sourceTree = "<group>"; };
+		A13491A916F6918300F9CD83 /* F#.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "F#.m4a"; sourceTree = "<group>"; };
+		A13491AA16F6918300F9CD83 /* G.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = G.m4a; sourceTree = "<group>"; };
+		A13491AB16F6918300F9CD83 /* G#.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "G#.m4a"; sourceTree = "<group>"; };
+		A13491AC16F6918300F9CD83 /* HighC.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = HighC.m4a; sourceTree = "<group>"; };
+		A13491AD16F6918300F9CD83 /* LowC.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = LowC.m4a; sourceTree = "<group>"; };
 		A14D966016F67AB800DCD81F /* Andrew's Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Andrew's Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A14D966316F67AB800DCD81F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A14D966516F67AB800DCD81F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -37,6 +64,8 @@
 		A14D967C16F67AB800DCD81F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		A14D967E16F67AB800DCD81F /* AndrewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AndrewViewController.h; sourceTree = "<group>"; };
 		A14D967F16F67AB800DCD81F /* AndrewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AndrewViewController.m; sourceTree = "<group>"; };
+		A19F35FA16F68B6D000FD091 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		A19F35FC16F68B83000FD091 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +73,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A19F35FD16F68B83000FD091 /* AudioToolbox.framework in Frameworks */,
 				A14D966416F67AB800DCD81F /* UIKit.framework in Frameworks */,
 				A14D966616F67AB800DCD81F /* Foundation.framework in Frameworks */,
 				A14D966816F67AB800DCD81F /* CoreGraphics.framework in Frameworks */,
@@ -56,6 +86,8 @@
 		A14D965716F67AB700DCD81F = {
 			isa = PBXGroup;
 			children = (
+				A19F35FC16F68B83000FD091 /* AudioToolbox.framework */,
+				A19F35FA16F68B6D000FD091 /* AVFoundation.framework */,
 				A14D966916F67AB800DCD81F /* Andrew's Project */,
 				A14D966216F67AB800DCD81F /* Frameworks */,
 				A14D966116F67AB800DCD81F /* Products */,
@@ -96,6 +128,19 @@
 		A14D966A16F67AB800DCD81F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A13491A116F6918300F9CD83 /* A.m4a */,
+				A13491A216F6918300F9CD83 /* A#.m4a */,
+				A13491A316F6918300F9CD83 /* B.m4a */,
+				A13491A416F6918300F9CD83 /* C#.m4a */,
+				A13491A516F6918300F9CD83 /* D.m4a */,
+				A13491A616F6918300F9CD83 /* D#.m4a */,
+				A13491A716F6918300F9CD83 /* E.m4a */,
+				A13491A816F6918300F9CD83 /* F.m4a */,
+				A13491A916F6918300F9CD83 /* F#.m4a */,
+				A13491AA16F6918300F9CD83 /* G.m4a */,
+				A13491AB16F6918300F9CD83 /* G#.m4a */,
+				A13491AC16F6918300F9CD83 /* HighC.m4a */,
+				A13491AD16F6918300F9CD83 /* LowC.m4a */,
 				A14D966B16F67AB800DCD81F /* Andrew's Project-Info.plist */,
 				A14D966C16F67AB800DCD81F /* InfoPlist.strings */,
 				A14D966F16F67AB800DCD81F /* main.m */,
@@ -164,6 +209,19 @@
 				A14D967816F67AB800DCD81F /* Default@2x.png in Resources */,
 				A14D967A16F67AB800DCD81F /* Default-568h@2x.png in Resources */,
 				A14D967D16F67AB800DCD81F /* MainStoryboard.storyboard in Resources */,
+				A13491AE16F6918300F9CD83 /* A.m4a in Resources */,
+				A13491AF16F6918300F9CD83 /* A#.m4a in Resources */,
+				A13491B016F6918300F9CD83 /* B.m4a in Resources */,
+				A13491B116F6918300F9CD83 /* C#.m4a in Resources */,
+				A13491B216F6918300F9CD83 /* D.m4a in Resources */,
+				A13491B316F6918300F9CD83 /* D#.m4a in Resources */,
+				A13491B416F6918300F9CD83 /* E.m4a in Resources */,
+				A13491B516F6918300F9CD83 /* F.m4a in Resources */,
+				A13491B616F6918300F9CD83 /* F#.m4a in Resources */,
+				A13491B716F6918300F9CD83 /* G.m4a in Resources */,
+				A13491B816F6918300F9CD83 /* G#.m4a in Resources */,
+				A13491B916F6918300F9CD83 /* HighC.m4a in Resources */,
+				A13491BA16F6918300F9CD83 /* LowC.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +357,7 @@
 				A14D968516F67AB800DCD81F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
